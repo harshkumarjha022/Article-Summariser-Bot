@@ -101,7 +101,7 @@ A: Open an issue on [GitHub](https://github.com/harshkumarjha022/Article-Summari
 ## 📩 Stay Connected
 
 - Website: [AutoCMS](https://autocms.streamlit.app/)
-- Telegram: *(Add Telegram link here)*
+- Telegram: [Bot Link](https://t.me/dummySummaryGeneratorbot)
 - LinkedIn: [harshkumarjha](https://www.linkedin.com/in/harshkumarjha)
 - GitHub: [AutoCMS Repository](https://github.com/harshkumarjha022/Article-Summariser-Bot)
 
