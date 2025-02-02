@@ -1,5 +1,6 @@
 # 🚀 AutoCMS - Your Content Management Companion
-🔗 Website: [Website](https://autocms.streamlit.app/)
+🔗 Website: [Click Here](https://autocms.streamlit.app/)
+
 Welcome to **AutoCMS**, a handy tool for scraping, summarizing, and managing content with ease. Whether you need quick summaries of articles or a streamlined way to organize content, AutoCMS has you covered.
 
 ## 📌 Features
